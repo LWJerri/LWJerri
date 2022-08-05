@@ -1,3 +1,14 @@
-![Metrics](https://metrics.lecoq.io/LWJerri?template=classic&repositories=100&repositories.batch=100&introduction=1&lines=1&achievements=1&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Europe%2FKiev&config.twemoji=true)
+<a href="https://twitter.com/LWJerri" target="_blank" rel="nofollow"><img align="right" alt="LWJerri's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.instagram.com/LWJerri" target="_blank" rel="nofollow"><img align="right" alt="LWJerri's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-Click [here](https://metrics.lecoq.io/about/LWJerri) if you wanna see more information.
+## LWJerri (Andrey Zontov)
+
+Hello! I'm a backend Node.js developer from Ukraine, Kyiv.
+
+- 🌐 Visit my [porfolio website](https://lwjerri.js.org/) for complete background and contact.
+- 👌 You can support my projects [here](https://send.monobank.ua/8webyivBtV).
+---
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LWJerri&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=LWJerri&theme=dark&hide_border=true" width = 400>
+</p>
