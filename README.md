@@ -4,8 +4,9 @@
 
 Hello! I'm a backend Node.js developer from Ukraine, Kyiv.
 
-- 🌐 Visit my [porfolio website](https://lwjerri.js.org/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://lwjerri.dev/) for complete background and contact.
 - 👌 You can support my projects [here](https://send.monobank.ua/8webyivBtV).
+
 ---
 
 <p align = "center">
