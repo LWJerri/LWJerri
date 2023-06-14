@@ -1,4 +1,4 @@
-# LWJerri (Andrey Zontov) ⭐
+# LWJerri (Andrii Zontov) ⭐
 
 Hello! I am a backend Node.js developer from Ukraine.
 
