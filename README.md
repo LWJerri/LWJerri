@@ -1,8 +1,8 @@
 # LWJerri (Andrii Zontov) ⭐
 
-Hello! I am a backend Node.js developer from Ukraine.
+Hello! I am a backend Node.js developer from Ukraine 🇺🇦.
 
-- 🌐 Please visit my [portfolio website](https://lwjerri.dev) to learn more about my background and contact information.
+- 🌐 Visit my [portfolio website](https://lwjerri.dev) to learn more about me, my projects and contact information.
 - 💡 You can also support my projects by donating [here](https://send.monobank.ua/8webyivBtV).
 
 ---
